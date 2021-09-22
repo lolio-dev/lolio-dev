@@ -1,4 +1,4 @@
-# Salut !
+# Hello !
 
 ### 🇫🇷 Qui suis-je ?
 Salut, je m'appelle Elie et je suis actuellement lycée en seconde. Je suis passioné de programmation depuis maintenant 2 ans. Je touche à peu près à tout que se soit du jeu vidéo, du bot discord ou encore du web. Mes technologies préférées sont principalement python, vue.js et scss. Je me sert de ce github comme porefolio/cv en attendant d'avoir mon site (en cours de création). Je me forme principalement en autodidacte avec des sites comme udemy, docstring ou encore zeste de savoir. Je me passionne aussi pour l'électronique, la voile et l'architecture.
