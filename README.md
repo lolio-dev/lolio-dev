@@ -12,7 +12,7 @@ I use Linux (ubuntu) and mainly the jetbrain suite to programming.
 
 ___
 
-### My main languages and technologies i use
+### My main languages and technologies I use
 
 - Python
 - Typescript
