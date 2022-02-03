@@ -22,5 +22,6 @@ ___
 - Typescript
 - Scss
 - Vue.js
-- Django & Flask
+- Django & FastAPI
 - Firebase
+- MongoDb
