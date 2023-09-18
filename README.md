@@ -2,7 +2,7 @@
 
 ## Qui suis-je ?
 
-Salut ! Moi c'est Elie. Je suis en première et je suis développeur web et chef de project pour poudlardrp.fr
+Salut ! Moi c'est Elie. Je suis en terminal et je suis développeur web.
 
 ### Mes technologies:
 
